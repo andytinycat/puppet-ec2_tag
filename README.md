@@ -35,7 +35,8 @@ the section at the bottom of the file.
 
 You will need the `aws-sdk` gem installed in whatever Ruby your Puppet is running in.
 I use [puppet-omnibus](https://github.com/andytinycat/puppet-omnibus) so this doesn't cause
-me a great deal of trouble.
+me a great deal of trouble. You'll need the gem on every one of your nodes you want to
+use this type on.
 
 ## Usage
 
